@@ -1,2 +1,2 @@
-# AirBnB_clone
-AirBnB_clone
+Mercy Kangor <mercykangor@gmail.com>
+Michael Agbiaowei <bryanwalton1997@gmail.com>
